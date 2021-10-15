@@ -1,5 +1,6 @@
 Feature: drag and drop
 
+@critical
 @one
 Scenario: dropped successful
 	Given The user is on the dragadrop home page

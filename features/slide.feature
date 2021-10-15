@@ -1,5 +1,6 @@
 Feature: slide
 
+@minor
 @two
 Scenario: slide progress
 	Given The user is on the dragadrop home page
